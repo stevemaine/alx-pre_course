@@ -1,1 +1,1 @@
-This is for ALX Software Enginnering program
+This is for ALX Software Engineering program
